@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4385bf1f.chunk.css",
+    "main.js": "/static/js/main.abb33811.chunk.js",
+    "main.js.map": "/static/js/main.abb33811.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.00060668.js",
+    "runtime-main.js.map": "/static/js/runtime-main.00060668.js.map",
+    "static/js/2.3f480abb.chunk.js": "/static/js/2.3f480abb.chunk.js",
+    "static/js/2.3f480abb.chunk.js.map": "/static/js/2.3f480abb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5d5de632638fd5f1ad82fd48417ae274.js": "/precache-manifest.5d5de632638fd5f1ad82fd48417ae274.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4385bf1f.chunk.css.map": "/static/css/main.4385bf1f.chunk.css.map",
+    "static/js/2.3f480abb.chunk.js.LICENSE.txt": "/static/js/2.3f480abb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/CV_EN.pdf": "/static/media/CV_EN.dfc2a685.pdf",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/poste-italiane-spa.png": "/static/media/poste-italiane-spa.6126b218.png",
+    "static/media/superiore_castellana.png": "/static/media/superiore_castellana.8f1a1b7c.png",
+    "static/media/universita_bari.png": "/static/media/universita_bari.b2f7b995.png",
+    "static/media/universita_torino.png": "/static/media/universita_torino.20b14943.png",
+    "static/media/universita_torino.jpg": "/static/media/universita_torino.e8cd2820.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00060668.js",
+    "static/js/2.3f480abb.chunk.js",
+    "static/css/main.4385bf1f.chunk.css",
+    "static/js/main.abb33811.chunk.js"
+  ]
+}
